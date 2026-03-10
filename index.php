@@ -1,9 +1,22 @@
 <?php include("includes/header.php"); ?>
 
-<section class="hero">
-    <h1>🔥 Siêu Sale Điện Thoại 2026</h1>
-    <p>Chính hãng - Bảo hành 12 tháng - Giao hàng toàn quốc</p>
-    <a href="#" class="btn-primary">Mua ngay</a>
+<section class="hero-slider">
+
+<div class="slide active">
+
+<a href="#" class="btn-primary">Mua ngay</a>
+</div>
+
+<div class="slide">
+
+<a href="#" class="btn-primary">Xem ngay</a>
+</div>
+
+<div class="slide">
+
+<a href="#" class="btn-primary">Mua ngay</a>
+</div>
+
 </section>
 
 <h2 class="section-title">SẢN PHẨM MỚI NHẤT</h2>
